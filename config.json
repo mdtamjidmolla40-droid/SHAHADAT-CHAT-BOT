@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Tamjid",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "mdtamjidmolla1@gmail.com",
+  "PASSWORD": "tamjid",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭Tamjid 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "61584155191845",
+    "",
+    ""
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
